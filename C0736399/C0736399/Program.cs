@@ -11,7 +11,7 @@ namespace C0736399
         static void Main(string[] args)
         {
             Method m = new Method();
-            m.Output();
+            m.Output(); // calls output method
 
             Console.ReadKey();
         }
